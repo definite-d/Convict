@@ -1,4 +1,4 @@
-### Meet *Convict*: Your No-Nonsense Python Image Converter  
+### Meet *Convict*: Your No-Nonsense Python Image Converter (COMING SOON)
 
 Got a PNG you need as an `.ico` in seconds? Wrestling with a `.webp` because your favorite app won’t touch it yet—or maybe *you actually need a `.webp`* for once? Or perhaps you’re stuck converting an image to PDF because *someone* just won’t accept anything else. That’s where *Convict* comes in.  
 
